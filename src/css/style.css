@@ -1,6 +1,7 @@
 .btn {
   cursor: pointer;
   padding: 10px 25px;
+  text-transform: capitalize;
 }
 
 .btn-transparent {
